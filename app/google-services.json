@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894600770904",
+    "firebase_url": "https://mapfunctions-c1e62.firebaseio.com",
+    "project_id": "mapfunctions-c1e62",
+    "storage_bucket": "mapfunctions-c1e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894600770904:android:c7f5bd21eeb8b9b290212d",
+        "android_client_info": {
+          "package_name": "com.cloud.group36.parklikeapro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894600770904-p0d65q3rg3crsd929ig1h3mq3ig5s1l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOED9LGrc3EI3IwKeQ84FZJbq9yVOrtck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894600770904-p0d65q3rg3crsd929ig1h3mq3ig5s1l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
